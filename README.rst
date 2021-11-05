@@ -1,3 +1,9 @@
+This Python package can be used to add the Molokai colour theme to Pygments.  it was generated from the `vim
+Molokai plugin` using the `Vim Colorscheme Converter`.
+
+.. _`Vim Molokai plugin`: https://github.com/tomasr/molokai
+.. _`Vim Colorscheme Converter`: https://github.com/honza/vim2pygments
+
 Install
 =======
 
@@ -43,7 +49,7 @@ or from the command line:
 Help
 ====
 
-More information about Pygment styles can be found at the `official Pygments documentation`_ page.
+More information about Pygment styles can be found at the `official Pygments documentation` page.
 
 .. _official documentation: http://pygments.org/docs/
 
