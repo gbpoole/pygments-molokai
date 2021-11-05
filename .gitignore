@@ -1,0 +1,14 @@
+# Some annoying Apple stuff
+.DS_Store
+*.dSYM
+
+# Python stuff
+*.pyc
+*.egg
+*.eggs
+*.egg-info
+__pycache__
+
+# Editor stuff
+*.*.swp
+.idea
