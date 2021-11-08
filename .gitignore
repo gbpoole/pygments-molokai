@@ -9,6 +9,10 @@
 *.egg-info
 __pycache__
 
+# Poetry stuff
+dist
+poetry.lock
+
 # Editor stuff
 *.*.swp
 .idea
