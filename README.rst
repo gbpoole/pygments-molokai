@@ -54,7 +54,7 @@ or from the command line:
 Help
 ====
 
-More information about Pygment styles can be found at the `official Pygments documentation` page.
+More information about Pygment styles can be found at the `official Pygments documentation`_ page.
 
-.. _official documentation: http://pygments.org/docs/
+.. _official Pygments documentation: https://pygments.org/docs/styles/
 
