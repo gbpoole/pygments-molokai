@@ -1,8 +1,13 @@
 [tool.poetry]
 name = "pygments-molokai"
-version = "0.0.0" # Just a placeholder: this is set by git and managed with workflows
-description = ""
+version = "0.0.0" # Just a placeholder; this is set by git and incremented by a workflow
+description = "A Pygments style providing the Molokai colour scheme."
 authors = ["Gregory Poole <gbpoole@gmail.com>"]
+homepage = 'https://github.com/gbpoole/pygments-molokai'
+repository = 'https://github.com/gbpoole/pygments-molokai'
+license = 'MIT'
+readme = 'README.rst'
+keywords = ['syntax', 'highlighting', 'pygments', 'style']
 
 [tool.poetry.dependencies]
 python = "^3.9"
