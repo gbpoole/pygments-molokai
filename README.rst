@@ -23,7 +23,7 @@ Using PyPI and pip
 The easiest way is to use 'pip':
 ::
 
-    $ pip install pygments_molokai
+    $ pip install pygments-molokai
 
 
 Manual
